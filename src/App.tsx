@@ -3,7 +3,9 @@ import './App.css'
 function App() {
   return (
     <>
-      Coming Soon!
+      <h1 className="text-3xl font-bold underline">
+        Coming soon!
+      </h1>
     </>
   )
 }

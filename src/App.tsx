@@ -1,13 +1,10 @@
 import './App.css'
+import Section1 from './components/sections/Section1';
 
-function App() {
+export default function App() {
   return (
     <>
-      <h1 className="text-3xl font-bold underline">
-        Coming soon!
-      </h1>
+      <Section1/>
     </>
   )
 }
-
-export default App
